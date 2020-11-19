@@ -1,1 +1,3 @@
 # test-public-key
+AKIAXW4MP7JJA3QCLH5B
+ueJGsseyMt7YeWvj0aOIPxIjGA97zDZA9DOy+7nb
